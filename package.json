@@ -1,6 +1,6 @@
 {
   "name": "janus-method-ping",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds 'ping' command to janus-server.",
   "main": "index.js",
   "scripts": {
